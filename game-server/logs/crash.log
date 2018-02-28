@@ -1,0 +1,4 @@
+[2018-02-27 20:23:46.551] [INFO] crash-log - [32m[C:\Users\KE\logintest\game-server\node_modules\pomelo\lib\master\master.js] [39m[client],[pomelo_list_1519734226489],[1519734226551],[disconnect]
+[2018-02-27 20:24:06.838] [INFO] crash-log - [32m[C:\Users\KE\logintest\game-server\node_modules\pomelo\lib\master\master.js] [39m[connector],[connector-server-1],[1519734246838],[disconnect]
+[2018-02-27 21:31:36.690] [INFO] crash-log - [32m[C:\Users\KE\logintest\game-server\node_modules\pomelo\lib\master\master.js] [39m[connector],[connector-server-1],[1519738296690],[disconnect]
+[2018-02-27 21:33:02.162] [INFO] crash-log - [32m[C:\Users\KE\logintest\game-server\node_modules\pomelo\lib\master\master.js] [39m[client],[pomelo_list_1519738382116],[1519738382162],[disconnect]
